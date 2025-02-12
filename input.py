@@ -10,8 +10,15 @@
 # print(f"You live in{residency}")
 
 
-length = input("Enter length :")
-width = input("Enter width :")
+# length = input("Enter length :")
+# width = input("Enter width :")
 
-area = int(length) * int(width)
-print(area)
+# area = int(length) * int(width)
+# print(area)
+
+item = input("What item do you want to buy? :")
+price = float(input("What is the price?: "))
+quantity = int(input("How many would you like? :"))
+
+total = price * quantity
+print(total)
