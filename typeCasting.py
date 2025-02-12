@@ -5,3 +5,5 @@ age = 25,
 city = "Harare",
 gpa = 3.2,
 student = True,
+
+print(type(name))
