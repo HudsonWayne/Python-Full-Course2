@@ -17,9 +17,17 @@
 #         continue
 #     print(i)
 
-for i in range(1, 21):
+# for i in range(1, 21):
 
-    if i == 13:
-        pass
-    else:
-        print(i)
+#     if i == 13:
+#         pass
+#     else:
+#         print(i)
+
+
+
+# print("Hello world")
+
+
+name = "Wayne"
+print(name)
