@@ -1,5 +1,6 @@
-def increment(number, by):
-    return number + by
+def multiply(x,y):
+    return x * y
+
+multiply(2, 3, 4, 5)
 
 
-print(increment(2, by=1))
