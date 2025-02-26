@@ -1,6 +1,6 @@
-set1 = {1, 2, 3, 4}
-set2 = {3, 4, 5, 6}
+num = int(input("Enter number: "))
 
-intersection = set1.intersection(set2)
-
-print(intersection)
+if num % 2 == 0:
+    print("Its is odd number")
+else:
+    print("Its is even number")    
