@@ -1,3 +1,4 @@
-fruits = ["apple", "orange", "banana"]
-for fruit in fruits:
-    print(fruit)
+num = 1
+while num <= 5:
+    print(num)
+    num += 1
