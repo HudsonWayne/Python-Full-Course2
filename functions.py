@@ -2,7 +2,7 @@
 #               when it is called
 
 
-
-def hello (first, second):
-    print("Hello"+first+" "+second)
-    print("Have a nice day")
+def add_numbers(a,b):
+    sum = a + b
+    print(f"Sum:",summ)
+    
