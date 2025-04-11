@@ -2,7 +2,7 @@
 #               when it is called
 
 
-def add_numbers(a,b):
-    sum = a + b
-    print(f"Sum:",summ)
+def add_numbers(a,c):
+    sum = a + c
+    print(f"Sum:",sum)
     
